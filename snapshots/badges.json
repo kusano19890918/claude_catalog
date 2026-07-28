@@ -1,6 +1,8 @@
 {
   "new": [
-    "plugin-external|catalyst-by-zoho"
+    "plugin-external|mattpocock-skills",
+    "plugin-external|paypal",
+    "plugin-external|shippo"
   ],
   "updated": []
 }
