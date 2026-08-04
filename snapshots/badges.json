@@ -1,8 +1,7 @@
 {
   "new": [
-    "plugin-external|mattpocock-skills",
-    "plugin-external|paypal",
-    "plugin-external|shippo"
+    "plugin-external|atlassian-twg-cli",
+    "plugin-external|noibu"
   ],
   "updated": []
 }

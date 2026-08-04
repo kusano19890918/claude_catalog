@@ -1,5 +1,67 @@
 [
   {
+    "date": "2026-08-04",
+    "kind": "docs",
+    "docs": [
+      {
+        "key": "skills",
+        "label": "スキル",
+        "changes": [
+          {
+            "heading": "（冒頭）",
+            "type": "changed"
+          }
+        ]
+      },
+      {
+        "key": "mcp",
+        "label": "MCP",
+        "changes": [
+          {
+            "heading": "（冒頭）",
+            "type": "changed"
+          }
+        ]
+      },
+      {
+        "key": "settings",
+        "label": "設定",
+        "changes": [
+          {
+            "heading": "（冒頭）",
+            "type": "changed"
+          }
+        ]
+      },
+      {
+        "key": "hooks",
+        "label": "Hooks",
+        "changes": [
+          {
+            "heading": "（冒頭）",
+            "type": "changed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-08-04",
+    "kind": "diff",
+    "added": [
+      {
+        "name": "atlassian-twg-cli",
+        "type": "plugin-external"
+      },
+      {
+        "name": "noibu",
+        "type": "plugin-external"
+      }
+    ],
+    "updated": [],
+    "removed": []
+  },
+  {
     "date": "2026-08-03",
     "kind": "docs",
     "docs": [
