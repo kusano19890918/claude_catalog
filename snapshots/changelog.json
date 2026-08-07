@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-08-07",
+    "kind": "diff",
+    "added": [
+      {
+        "name": "aiven",
+        "type": "plugin-external"
+      },
+      {
+        "name": "crowdstrike-falcon-fusion",
+        "type": "plugin-external"
+      }
+    ],
+    "updated": [
+      {
+        "name": "asana",
+        "type": "plugin-internal"
+      }
+    ],
+    "removed": []
+  },
+  {
     "date": "2026-08-04",
     "kind": "docs",
     "docs": [

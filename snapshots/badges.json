@@ -1,7 +1,9 @@
 {
   "new": [
-    "plugin-external|atlassian-twg-cli",
-    "plugin-external|noibu"
+    "plugin-external|aiven",
+    "plugin-external|crowdstrike-falcon-fusion"
   ],
-  "updated": []
+  "updated": [
+    "plugin-internal|asana"
+  ]
 }
