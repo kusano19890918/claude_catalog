@@ -1,5 +1,34 @@
 [
   {
+    "date": "2026-08-08",
+    "kind": "diff",
+    "added": [
+      {
+        "name": "airwallex-dev",
+        "type": "plugin-external"
+      },
+      {
+        "name": "salesforce-development",
+        "type": "plugin-external"
+      },
+      {
+        "name": "streaming-skills-plugin",
+        "type": "plugin-external"
+      },
+      {
+        "name": "synthflow",
+        "type": "plugin-external"
+      }
+    ],
+    "updated": [
+      {
+        "name": "context7",
+        "type": "plugin-internal"
+      }
+    ],
+    "removed": []
+  },
+  {
     "date": "2026-08-07",
     "kind": "diff",
     "added": [

@@ -1,9 +1,11 @@
 {
   "new": [
-    "plugin-external|aiven",
-    "plugin-external|crowdstrike-falcon-fusion"
+    "plugin-external|airwallex-dev",
+    "plugin-external|salesforce-development",
+    "plugin-external|streaming-skills-plugin",
+    "plugin-external|synthflow"
   ],
   "updated": [
-    "plugin-internal|asana"
+    "plugin-internal|context7"
   ]
 }
