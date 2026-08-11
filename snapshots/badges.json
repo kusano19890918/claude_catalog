@@ -1,11 +1,6 @@
 {
   "new": [
-    "plugin-external|airwallex-dev",
-    "plugin-external|salesforce-development",
-    "plugin-external|streaming-skills-plugin",
-    "plugin-external|synthflow"
+    "plugin-external|mongodb-atlas"
   ],
-  "updated": [
-    "plugin-internal|context7"
-  ]
+  "updated": []
 }
