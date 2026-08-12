@@ -1,6 +1,7 @@
 {
   "new": [
-    "plugin-external|mongodb-atlas"
+    "plugin-external|google-cloud-storage",
+    "plugin-external|superdesign"
   ],
   "updated": []
 }
