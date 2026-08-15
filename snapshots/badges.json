@@ -1,7 +1,4 @@
 {
-  "new": [
-    "plugin-external|google-cloud-storage",
-    "plugin-external|superdesign"
-  ],
+  "new": [],
   "updated": []
 }

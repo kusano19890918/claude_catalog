@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-08-15",
+    "kind": "diff",
+    "added": [],
+    "updated": [],
+    "removed": [
+      {
+        "name": "aws-dev-toolkit",
+        "type": "plugin-external"
+      }
+    ]
+  },
+  {
     "date": "2026-08-13",
     "kind": "docs",
     "docs": [
