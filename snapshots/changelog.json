@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-08-18",
+    "kind": "diff",
+    "added": [
+      {
+        "name": "claude-academy-guide",
+        "type": "skill"
+      },
+      {
+        "name": "discernment-nudge",
+        "type": "skill"
+      }
+    ],
+    "updated": [],
+    "removed": []
+  },
+  {
     "date": "2026-08-15",
     "kind": "diff",
     "added": [],
