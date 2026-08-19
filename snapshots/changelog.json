@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-08-19",
+    "kind": "diff",
+    "added": [
+      {
+        "name": "academy-guide",
+        "type": "skill"
+      }
+    ],
+    "updated": [],
+    "removed": [
+      {
+        "name": "claude-academy-guide",
+        "type": "skill"
+      }
+    ]
+  },
+  {
     "date": "2026-08-18",
     "kind": "diff",
     "added": [
