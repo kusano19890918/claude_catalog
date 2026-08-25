@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-08-25",
+    "kind": "diff",
+    "added": [
+      {
+        "name": "unity",
+        "type": "plugin-external"
+      }
+    ],
+    "updated": [],
+    "removed": []
+  },
+  {
     "date": "2026-08-19",
     "kind": "diff",
     "added": [
