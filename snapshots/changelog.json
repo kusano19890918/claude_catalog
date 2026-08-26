@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-08-26",
+    "kind": "diff",
+    "added": [
+      {
+        "name": "netsuite-ai-companion",
+        "type": "plugin-external"
+      },
+      {
+        "name": "netsuite-finance-analyst",
+        "type": "plugin-external"
+      }
+    ],
+    "updated": [
+      {
+        "name": "netsuite-suitecloud",
+        "type": "plugin-external"
+      }
+    ],
+    "removed": []
+  },
+  {
     "date": "2026-08-25",
     "kind": "diff",
     "added": [

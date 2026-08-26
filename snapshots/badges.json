@@ -1,6 +1,9 @@
 {
   "new": [
-    "plugin-external|unity"
+    "plugin-external|netsuite-ai-companion",
+    "plugin-external|netsuite-finance-analyst"
   ],
-  "updated": []
+  "updated": [
+    "plugin-external|netsuite-suitecloud"
+  ]
 }
