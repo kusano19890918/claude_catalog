@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-08-28",
+    "kind": "diff",
+    "added": [
+      {
+        "name": "activecampaign",
+        "type": "plugin-external"
+      }
+    ],
+    "updated": [],
+    "removed": []
+  },
+  {
     "date": "2026-08-26",
     "kind": "diff",
     "added": [

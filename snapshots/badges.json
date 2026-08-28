@@ -1,9 +1,6 @@
 {
   "new": [
-    "plugin-external|netsuite-ai-companion",
-    "plugin-external|netsuite-finance-analyst"
+    "plugin-external|activecampaign"
   ],
-  "updated": [
-    "plugin-external|netsuite-suitecloud"
-  ]
+  "updated": []
 }
