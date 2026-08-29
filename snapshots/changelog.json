@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-08-29",
+    "kind": "diff",
+    "added": [
+      {
+        "name": "scandit-sdk",
+        "type": "plugin-external"
+      }
+    ],
+    "updated": [],
+    "removed": []
+  },
+  {
     "date": "2026-08-28",
     "kind": "diff",
     "added": [
