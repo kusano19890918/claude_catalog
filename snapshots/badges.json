@@ -1,6 +1,6 @@
 {
-  "new": [
-    "plugin-external|scandit-sdk"
-  ],
-  "updated": []
+  "new": [],
+  "updated": [
+    "plugin-external|nvidia-skills"
+  ]
 }

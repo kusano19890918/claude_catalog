@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-09-03",
+    "kind": "diff",
+    "added": [],
+    "updated": [
+      {
+        "name": "nvidia-skills",
+        "type": "plugin-external"
+      }
+    ],
+    "removed": []
+  },
+  {
     "date": "2026-08-30",
     "kind": "docs",
     "docs": [
